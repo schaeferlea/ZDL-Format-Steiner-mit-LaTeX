@@ -4,7 +4,7 @@ Eine Pandoc-Lösung um LaTeX ins Steiner-Format (docx) zu konvertieren. Das hier
 ## Verwendung
 
 1. Pandoc installieren (vgl. https://pandoc.org)
-2. run 'pandoc -f latex -t docx --reference-doc=steiner.dotm  --resource-path=.:figures --bibliography=sample.bib -o output.docx text.tex' im Terminal
+2. Terminal-Befehl: pandoc -f latex -t docx --reference-doc=steiner.dotm  --resource-path=.:figures --bibliography=sample.bib -o output.docx text.tex
 3. Spaß haben mit LaTeX
 
 ## Noch nicht ideal
