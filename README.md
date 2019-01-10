@@ -8,7 +8,7 @@ Eine Pandoc-Lösung um LaTeX ins Steiner-Format (docx) zu konvertieren. Das hier
 3. Spaß haben mit LaTeX
 
 ## Noch nicht ideal
-Händisch muss folgendes nachbearbeitet werden:
+Händisch muss noch nachbearbeitet werden:
 
 * Grafiken float-Umgebung
 * ref-Nummerierung von Tabellen und Bildern
